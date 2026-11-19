@@ -1,0 +1,4 @@
+id,cross_id,distributor_id,stock_kg,status,qr_id
+MH-LOT-001,X-001,D-KZ-01,5000,ready,MH-QR-001
+MH-LOT-002,X-001,D-KZ-02,3000,ready,MH-QR-002
+MH-LOT-003,X-001,D-KZ-03,2000,planned,MH-QR-003
