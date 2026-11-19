@@ -1,0 +1,3 @@
+id,name,heterotic_group,crop,maturity_days,yield_t_per_ha,drought_tolerance,disease_resistance,source
+MH-P01,Parent-1 (female),Dent,maize-sweet,88,12.1,5,4,Sanya trial (synthetic stand-in for real line)
+MH-P02,Parent-2 (male),Flint,maize-sweet,85,11.4,4,5,Sanya trial (synthetic stand-in for real line)
