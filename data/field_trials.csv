@@ -1,0 +1,4 @@
+id,cross_id,site,plot,planted_date,yield_t_per_ha,notes
+T-001,X-001,Sanya,A-01,2026-02-10,13.2,drought stress test, good emergence
+T-002,X-001,Sanya,A-02,2026-02-10,13.5,disease pressure low, selected
+T-003,X-001,Sanya,B-01,2026-02-12,13.4,edible/fruit corn quality check passed
