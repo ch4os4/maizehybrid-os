@@ -1,0 +1,2 @@
+id,female_id,male_id,predicted_yield_t_per_ha,heterosis_pct,status
+X-001,MH-P01,MH-P02,13.4,15.8,selected
